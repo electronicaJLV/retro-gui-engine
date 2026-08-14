@@ -1,0 +1,5 @@
+MainMenu..file->title,iconfile,itemname,itemlinks
+	browse..file->title,iconfile,contentfile,menufile
+	imgs..file->title,iconfile,picturefile,menufile
+	input..file->title,iconfile,savingfile,menufile
+	function>>pregunta..file->title,iconfile,menufile
